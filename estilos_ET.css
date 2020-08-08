@@ -1,0 +1,39 @@
+
+.contenedor{
+	border: 2px solid #000;
+	background: none;
+	margin: 20px;
+}
+
+.wrapper{
+	float: left;
+	padding: 10px 50px;
+	text-align: center;
+	font: 14px verdana;
+}
+
+body{
+	background: #34495E;
+	color: #fff;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+	display: flex;
+/*	justify-content: center;
+	align-items: center;
+	flex-direction: column;*/
+}
+
+.div{
+	float: left;
+	margin: 100px 50px;
+	font: 14px verdana;
+}
+
+#distancia{
+	border-radius: 20px;
+	background: #000;
+	margin: 70px 0px;
+	padding: 20px;
+	font: 20px verdana;
+}
